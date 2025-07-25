@@ -163,4 +163,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - Global E-waste Monitor for statistics and information
 - United Nations Sustainable Development Goals, particularly SDG 12: Responsible Consumption and Production
-- Open source community for various libraries and tools used in this project 
+- Open source community for various libraries and tools used in this projects/
